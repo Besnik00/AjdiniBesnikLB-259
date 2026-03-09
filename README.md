@@ -2,10 +2,10 @@
 ## Context
 Dieser Datensatz stammt aus dem Jahr 1988 und besteht aus vier Datenbanken: Cleveland, Ungarn, Schweiz und Long Beach V. Er enthält 76 Attribute, darunter das vorhergesagte Attribut, aber alle veröffentlichten Experimente beziehen sich auf die Verwendung einer Teilmenge von 14 davon. Das Feld „Ziel” bezieht sich auf das Vorliegen einer Herzerkrankung beim Patienten. Es ist ein ganzzahliger Wert: 0 = keine Erkrankung und 1 = Erkrankung.
 ## Content
-Alter
-Geschlecht
-Art der Brustschmerzen (4 Werte)
-Ruheblutdruck
+1. Alter
+2. Geschlecht
+3. Art der Brustschmerzen (4 Werte)
+4. Ruheblutdruck
 Serumcholesterin in mg/dl
 Nüchternblutzucker > 120 mg/dl
 Elektrokardiographische Ergebnisse in Ruhe (Werte 0,1,2)
